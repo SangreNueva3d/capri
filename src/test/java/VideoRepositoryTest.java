@@ -19,8 +19,8 @@ class VideoRepositoryTest {
 										   new Video("02", "Título 2", "----", 5.5),
 										   new Video("03", "Título 3", "----", 4.4),
 										   new Video("04", "Título 4", "----", 3.5),
-										   new Video("05", "Clip 5", "----", 5.7),
-									 	   new Video("06", "Clip 6", "----", 5.1));
+										   new Video("05", "Clic 5", "----", 5.7),
+									 	   new Video("06", "Clic 6", "----", 5.1));
 
 
 		for ( Video video : videos ) {
